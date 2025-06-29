@@ -9,6 +9,8 @@ Quando não estou codificando ou explorando novas tecnologias, gosto de recarreg
 
 Estou sempre aberto a novas oportunidades e conexões, pronto para aprender e contribuir em projetos desafiadores!
 #
+## social
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/flavio.teixeira141//flaviovinicius/)
 
 # 🚀 Tecnologias que eu estudo
 
