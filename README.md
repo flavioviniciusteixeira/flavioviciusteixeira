@@ -7,7 +7,8 @@ Estou constantemente aprimorando minhas habilidades em linguagens e ferramentas 
 
 Quando não estou codificando ou explorando novas tecnologias, gosto de recarregar as energias com alguns hobbies que adoro: mergulhar em mundos fantásticos através de videogames, acompanhar histórias cativantes em séries e relaxar ouvindo música.
 
-Estou sempre aberto a novas oportunidades e conexões, pronto para aprender e contribuir em projetos desafiadores!
+Estou sempre aberto a novas oportunidades e conexões, pronto para aprender e contribuir em projetos desafiadores!![Register - Login (1)](https://github.com/user-attachments/assets/3ed2a8ca-5126-4f42-b543-93d8f0079f5a)
+
 #
 ## social
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flavio.teixeira141/flavioviniciusteixeira/)
